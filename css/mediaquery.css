@@ -27,5 +27,8 @@
     }
     .col{
         flex-basis: 100%;
+        padding-bottom: 4rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
     }
 }
