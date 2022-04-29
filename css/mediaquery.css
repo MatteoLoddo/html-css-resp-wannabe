@@ -1,0 +1,31 @@
+@media screen and (max-width:1140px){
+    .site-header{
+        width: 100%;
+        margin-top: 3rem;
+    }
+
+    .container{
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width:769px){
+    .site-header{
+        width: 100%;
+        margin-top: 3rem;
+    }
+
+    .container{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:480px){
+    .row{
+        flex-wrap: wrap;
+    }
+    .col{
+        flex-basis: 100%;
+    }
+}
